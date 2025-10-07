@@ -10,7 +10,7 @@
 
 ## DEMONSTRAÇÃO
 
-Informe um numero inteiro: 4
+Informe um numero inteiro: 4 <br>
 4 x 1 = 4
 4 x 2 = 8
 4 x 3 = 12
